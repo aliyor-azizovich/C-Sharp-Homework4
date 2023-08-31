@@ -13,3 +13,18 @@ E:\Geek_Brains\CSharp\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\refint\TAsk _3
 E:\Geek_Brains\CSharp\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\TAsk _34.pdb
 E:\Geek_Brains\CSharp\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\TAsk _34.genruntimeconfig.cache
 E:\Geek_Brains\CSharp\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\ref\TAsk _34.dll
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\bin\Debug\net6.0\TAsk _34.exe
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\bin\Debug\net6.0\TAsk _34.deps.json
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\bin\Debug\net6.0\TAsk _34.runtimeconfig.json
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\bin\Debug\net6.0\TAsk _34.dll
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\bin\Debug\net6.0\TAsk _34.pdb
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\TAsk _34.csproj.AssemblyReference.cache
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\TAsk _34.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\TAsk _34.AssemblyInfoInputs.cache
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\TAsk _34.AssemblyInfo.cs
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\TAsk _34.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\TAsk _34.dll
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\refint\TAsk _34.dll
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\TAsk _34.pdb
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\TAsk _34.genruntimeconfig.cache
+D:\GeekBrains\Programming C#\C-Sharp-Homework4\TAsk _34\obj\Debug\net6.0\ref\TAsk _34.dll
